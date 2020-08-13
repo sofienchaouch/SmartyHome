@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="rooms_names">
+        <item>Living Room</item>
+        <item>Media Room</item>
+        <item>Bathroom</item>
+        <item>Bedroom</item>
+    </string-array>
+
+
+    <string-array name="nbr_devices">
+        <item>4 Devices</item>
+        <item>6 Devices</item>
+        <item>1 Device</item>
+        <item>3 Devices</item>
+    </string-array>
+</resources>
